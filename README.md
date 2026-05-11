@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sangrae2325&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-## 🏫 Experience & Social Activity
+### 🏫 Experience & Social Activity
+<hr style="border:0; height:1px; background:#e0e0e0;" />
 | 소속 및 단체 | 활동 기간 | 내용 |
 |--------------|-----------|------|
 | 국민대학교 | 2022.03 ~ | 국민대학교 소프트웨어학부 재학 |
@@ -8,7 +9,10 @@
 | WINK | 2025.11 ~ | 국민대학교 소프트웨어융합대학 웹 학술 동아리 WINK 부회장 |
 | ECHO | 2026.03 ~ | 국민대학교 소프트웨어융합대학 제10대 학생회 기획부 부장 |
 
-## 🔨 Stack & Tools
+
+
+### 🔨 Stack & Tools
+<hr style="border:0; height:1px; background:#e0e0e0;" />
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
