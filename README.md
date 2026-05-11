@@ -1,16 +1,43 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sangrae2325&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-### 🏫 Experience & Social Activity
+## 🏫 Experience & Social Activity
 
-| 소속 및 단체 | 활동 기간 | 내용 |
-|--------------|-----------|------|
-| 국민대학교 | 2022.03 ~ | 국민대학교 소프트웨어학부 재학 |
-| Archive | 2025.03 ~ 2025.11 | 국민대학교 소프트웨어융합대학 제9대 학생회 홍보부 부원 |
-| WINK | 2025.11 ~ | 국민대학교 소프트웨어융합대학 웹 학술 동아리 WINK 부회장 |
-| ECHO | 2026.03 ~ | 국민대학교 소프트웨어융합대학 제10대 학생회 기획부 부장 |
+<div align='left'>
+<table style="width: auto; table-layout: auto;">
+  <thead>
+    <tr>
+      <th align="left">소속 및 단체</th>
+      <th align="left">활동 기간</th>
+      <th align="left">활동 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">국민대학교</td>
+      <td align="left">2022.03 ~ </td>
+      <td align="left">소프트웨어학부 재학</td>
+    </tr>
+    <tr>
+      <td align="left">Archive</td>
+      <td align="left">2025.03 ~ 2025.11</td>
+      <td align="left">제9대 학생회 홍보부 부원</td>
+    </tr>
+    <tr>
+      <td align="left">WINK</td>
+      <td align="left">2025.11 ~ </td>
+      <td align="left">웹 학술 동아리 WINK 부회장</td>
+    </tr>
+    <tr>
+      <td align="left">ECHO</td>
+      <td align="left">2026.03 ~ </td>
+      <td align="left">제10대 학생회 기획부 부장</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<br/>
 
-
-### 🔨 Stack & Tools
+## 🔨 Stack & Tools
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,3 +57,5 @@
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 </p>
+
+
