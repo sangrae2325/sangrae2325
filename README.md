@@ -2,12 +2,12 @@
 
 ### 🏫 Experience & Social Activity
 <hr style="border:0; height:1px; background:#e0e0e0;" />
-| 소속 및 단체 | 활동 기간 | 내용 |
-|--------------|-----------|------|
-| 국민대학교 | 2022.03 ~ | 국민대학교 소프트웨어학부 재학 |
-| Archive | 2025.03 ~ 2025.11 | 국민대학교 소프트웨어융합대학 제9대 학생회 홍보부 부원 |
-| WINK | 2025.11 ~ | 국민대학교 소프트웨어융합대학 웹 학술 동아리 WINK 부회장 |
-| ECHO | 2026.03 ~ | 국민대학교 소프트웨어융합대학 제10대 학생회 기획부 부장 |
+
+| 소속 및 단체 | 기간 | 활동 내용 |
+|--------------|------|-----------|
+| GDG Campus Korea | 2024.09 - Present | Backend / AI 스터디 및 프로젝트 참여 |
+| ABC Company | 2025.07 - 2025.08 | Backend Developer Intern |
+| University Programming Club | 2023.03 - 2024.12 | 알고리즘 스터디 및 프로젝트 진행 |
 
 
 
