@@ -44,11 +44,11 @@
 <table>
   <thead>
     <tr>
-      <th align="center">Image</th>
+      <th align="center">Icon</th>
       <th align="center">Project</th>
       <th align="center">Period</th>
       <th align="center">Description</th>
-      <th align="center">Role</th>
+      <th align="center">Part</th>
     </tr>
   </thead>
   <tbody>
