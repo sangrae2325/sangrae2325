@@ -100,7 +100,7 @@
       <img src="https://avatars.githubusercontent.com/u/256783415?s=200&v=4" width="70"/>
     </td>
     <td align="left">
-      <a href="https://github.com/KMU-ALPHA-ZEPH/zeph_server">
+      <a href="https://github.com/KMU-ALPHA-ZEPH?view_as=public">
         <b>ZEPH</b>
       </a>
     </td>
