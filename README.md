@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sangrae2325&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-## 🏫 Experience & Social Activity
+<h2 align="center">🏫 Experience & Social Activity</h2>
 
-<div align='left'>
+<div align='center'>
 <table style="width: auto; table-layout: auto;">
   <thead>
     <tr>
-      <th align="left">소속 및 단체</th>
-      <th align="left">활동 기간</th>
-      <th align="left">활동 내용</th>
+      <th align="center">소속 및 단체</th>
+      <th align="center">활동 기간</th>
+      <th align="center">활동 내용</th>
     </tr>
   </thead>
   <tbody>
@@ -35,9 +35,108 @@
   </tbody>
 </table>
 </div>
+
 <br/>
 
-## 🔨 Stack & Tools
+<h2 align="center">💻 Projects</h2>
+
+<div align='center'>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Image</th>
+      <th align="center">Project</th>
+      <th align="center">Period</th>
+      <th align="center">Description</th>
+      <th align="center">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/223079125?s=200&v=4" width="70"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/D-X-W-Service-4/soup-client">
+        <b>SOUP</b>
+      </a>
+    </td>
+    <td align="left">2025.06 ~ 2025.11</td>
+    <td align="left">중학생을 위한 AI 수학 학습 도우미 서비스</td>
+    <td align="left">Frontend</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/241415009?s=200&v=4" width="70"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/EBTI-4-Team/Client">
+        <b>Ebting</b>
+      </a>
+    </td>
+    <td align="left">2025.11 ~ 2025.11</td>
+    <td align="left">EBTI 유형 기반 팀원 매칭 서비스</td>
+    <td align="left">Frontend</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/81351bf1-32de-4c5c-baa4-8f2da5d97145" width="70"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/WINK-009/frontend">
+        <b>009</b>
+      </a>
+    </td>
+    <td align="left">2025.12 ~ 2026.03</td>
+    <td align="left">대학생들을 위한 공동구매 모집 서비스</td>
+    <td align="left">Frontend</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/256783415?s=200&v=4" width="70"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/KMU-ALPHA-ZEPH/zeph_server">
+        <b>ZEPH</b>
+      </a>
+    </td>
+    <td align="left">2026.03 ~ 2026.06</td>
+    <td align="left">AI 기반 러닝 경로 추천 서비스</td>
+    <td align="left">Backend</td>
+  </tr>
+
+  </tbody>
+</table>
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Awards</h2>
+
+<p align="center">
+ 2025 EBTI AI CREATIVE : AI AGENT 웹 해커톤 장려상
+</p>
+
+<br/>
+
+<h2 align="center">🪪 Certifications</h2>
+
+<p align="center">
+  ADsP (한국데이터산업진흥원 / 2026.03.06.)
+</p>
+
+<p align="center">
+  SQLD (한국데이터산업진흥원 / 2026.06.19.)
+</p>
+
+<br/>
+
+<h2 align="center">🔨 Stack & Tools</h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -57,5 +156,3 @@
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 </p>
-
-
