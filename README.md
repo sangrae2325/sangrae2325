@@ -35,7 +35,7 @@
     <tr>
       <td align="left">(주)스위그</td>
       <td align="left">2026.07 ~ 2026.09 </td>
-      <td align="left">미래내일 일경험 프로젝트형 IT직군</td>
+      <td align="left">일경험 프로젝트형 IT직군 </td>
     </tr>
   </tbody>
 </table>
