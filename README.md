@@ -32,6 +32,11 @@
       <td align="left">2026.03 ~ </td>
       <td align="left">제10대 학생회 기획부 부장</td>
     </tr>
+    <tr>
+      <td align="left">(주)스위그</td>
+      <td align="left">2026.07 ~ 2026.09 </td>
+      <td align="left">미래내일 일경험 프로젝트형 IT직군</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -107,6 +112,20 @@
     <td align="left">2026.03 ~ 2026.06</td>
     <td align="left">AI 기반 러닝 경로 추천 서비스</td>
     <td align="left">Backend</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/315077828?s=200&v=4" width="70"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/toasty-violet">
+        <b>Toasty</b>
+      </a>
+    </td>
+    <td align="left">2026.07 ~ 2026.09</td>
+    <td align="left">소셜 셀러를 위한 라이브 커머스 쇼핑 플랫폼 서비스</td>
+    <td align="left">Full-Stack</td>
   </tr>
 
   </tbody>
