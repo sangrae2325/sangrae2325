@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td align="left">WINK</td>
-      <td align="left">2025.11 ~ </td>
+      <td align="left">2026.11 ~ 2026.11 </td>
       <td align="left">웹 학술 동아리 WINK 부회장</td>
     </tr>
     <tr>
