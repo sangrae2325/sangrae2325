@@ -137,7 +137,7 @@
         <b>Momento</b>
       </a>
     </td>
-    <td align="left">2026.08 ~ </td>
+    <td align="left">2026.08 ~ 2026.11</td>
     <td align="left">타임캡슐 편지와 추억 아카이빙 서비스</td>
     <td align="left">Backend</td>
   </tr>
