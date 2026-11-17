@@ -133,13 +133,13 @@
       <img src="https://avatars.githubusercontent.com/u/313757908?s=200&v=4" width="70"/>
     </td>
     <td align="left">
-      <a href="https://github.com/D-X-W-Service-3/momento-server">
+      <a href="https://github.com/D-X-W-Service-3">
         <b>Momento</b>
       </a>
     </td>
     <td align="left">2026.07 ~ 2026.11</td>
     <td align="left">타임캡슐 편지와 추억 아카이빙 서비스</td>
-    <td align="left">팀장,Backend</td>
+    <td align="left">팀장,Backend,Design</td>
   </tr>
 
   </tbody>
