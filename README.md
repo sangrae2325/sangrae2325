@@ -139,7 +139,7 @@
     </td>
     <td align="left">2026.07 ~ 2026.11</td>
     <td align="left">타임캡슐 편지와 추억 아카이빙 서비스</td>
-    <td align="left">Backend</td>
+    <td align="left">팀장,Backend</td>
   </tr>
 
   </tbody>
